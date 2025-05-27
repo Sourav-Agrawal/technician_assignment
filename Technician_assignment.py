@@ -1,3 +1,5 @@
+!pip install gurobipy
+
 import streamlit as st
 import sys
 import gurobipy as gp
